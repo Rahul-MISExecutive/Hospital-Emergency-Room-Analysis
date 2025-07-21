@@ -12,7 +12,7 @@ The analysis is performed primarily using **Microsoft Excel's advanced features*
 
 The analysis is based on two primary datasets:
 * `Hospital Emergency Room Data.csv`: Contains raw emergency room patient records, including details like patient ID, admission date, demographics, department referrals, patient satisfaction scores, and wait times.
-* `Hospital Dashboard.xlsx - Pivot Reports (Backend Work).csv`: This file likely contains summarized or aggregated data, possibly derived from the raw data, used for backend processing for a dashboard. It includes metrics such as distinct patient counts, average wait times, satisfaction scores by various categories (e.g., age group, gender).
+* `Hospital Dashboard.xlsx`: This file likely contains summarized or aggregated data, possibly derived from the raw data, used for backend processing for a dashboard. It includes metrics such as distinct patient counts, average wait times, satisfaction scores by various categories (e.g., age group, gender).
 
 ---
 
@@ -44,7 +44,7 @@ The analysis is based on two primary datasets:
 
 ## 📷 Power BI Dashboard Preview
 
-> **
+> *https://github.com/Rahul-MISExecutive/Hospital-Emergency-Room-Analysis/tree/main/Dashboard%20Preview*
 
 ---
 
