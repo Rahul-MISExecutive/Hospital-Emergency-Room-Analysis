@@ -50,5 +50,5 @@ The analysis is based on two primary datasets:
 
 ## 🔗 Author
 
-**Rahul**  
+**Rahul Singh**  
 Entry-Level MIS Executive
